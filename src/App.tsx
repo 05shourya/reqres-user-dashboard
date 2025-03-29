@@ -60,7 +60,7 @@ function App() {
                         />
                         <Route
                             path="/"
-                            element={<Navigate to="/login" replace />}
+                            element={<Navigate to="/users" replace />}
                         />
                     </Routes>
                 </div>

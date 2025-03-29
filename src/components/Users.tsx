@@ -158,7 +158,7 @@ const Users = () => {
     };
 
     return (
-        <div className="flex flex-col w-full sm:w-lg md:w-xl lg:w-2xl">
+        <div className="flex flex-col min-h-screen items-center w-full sm:w-lg md:w-xl lg:w-2xl">
             <dialog id="edit_modal" className="modal">
                 <div className="modal-box">
                     <div className="flex flex-col gap-5 items-center justify-center px-8">

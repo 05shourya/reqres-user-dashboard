@@ -1,5 +1,9 @@
 # User Dashboard App
 
+## Live Demo
+
+The app is hosted on Netlify: [https://reqres-user-dashboard.netlify.app/](https://reqres-user-dashboard.netlify.app/)
+
 This application uses the [ReqRes API](https://reqres.in/) to simulate login and display users. It consists of two pages:
 
 1. **Login Page**:
